@@ -2,7 +2,7 @@
 
 class Bank:
     def __init__(self, balance):
-        self.balance = balance = 0;
+        self.balance = balance;
     balance = 0;
 
 
