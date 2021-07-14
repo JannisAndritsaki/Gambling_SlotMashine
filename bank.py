@@ -5,9 +5,14 @@ class Bank:
         self.balance = balance = 0;
     balance = 0;
 
+
     def add_money(amount, self):
         self.balance + amount;
 
 
     def remove_money(amount, self):
         self.balance - amount;
+
+
+    def show_amount(amount, self):
+        print(self.amount);
